@@ -753,7 +753,7 @@ function LandingAndLogin({ db, saveDb, onLogin }) {
       </main>
 
       <footer className="bg-white border-t py-4 text-center text-xs text-slate-500">
-        &copy; 2026 Sistem Pelayanan Surat Desa SaaS. Hak Cipta Dilindungi Undang-Undang.
+        &copy; 2026 Sistem Informasi Manajemen Pelayanan Desa. Hak Cipta Dilindungi Undang-Undang. by : Rahman Ibrahim
       </footer>
 
       <Modal isOpen={showLoginModal} title="Silahkan Login" onClose={() => setShowLoginModal(false)}>
